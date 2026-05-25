@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dbms.stats.AuthorsScatterTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 77.41 s -- in dbms.stats.AuthorsScatterTest
