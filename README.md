@@ -44,7 +44,6 @@
    * **`DDL/load_data.sql`**: Εντολές `LOAD DATA LOCAL INFILE` για τη φόρτωση των αρχικών CSV/XML δεδομένων.
    * **`DDL/etl.sql`**: Διαδικασία Transform & Load (String splitting συγγραφέων με Recursive CTE, Venue/Journal matching με Acronyms & Prefix-8 Join).
    * **`DDL/views.sql`**: Δημιουργία των SQL Views.
-   * **`DDL/procedures.sql`**: Δημιουργία των Stored Procedures (`GetAuthorProfile`, `GetConferenceProfile`, `GetJournalProfile`).
 
 ---
 
