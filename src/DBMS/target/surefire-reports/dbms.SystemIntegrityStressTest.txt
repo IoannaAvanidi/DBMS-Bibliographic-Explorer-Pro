@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dbms.SystemIntegrityStressTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 68.03 s -- in dbms.SystemIntegrityStressTest
